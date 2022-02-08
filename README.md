@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hestarus
+- 👋 Hi, I’m @Nathanael Zamora
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning c# && Java
 - 💞️ I’m looking to collaborate on ...
