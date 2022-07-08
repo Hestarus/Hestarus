@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathanael Zamora
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning c# && Java
+- 👀 I’m interested in Backend development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
